@@ -3,7 +3,7 @@ import { useState } from "react";
         const [open, setOpen] = useState(false);
         return( 
           <nav className="bg-primary text-white px-6 py-4 flex justify-between items-center shadow-md fixed w-full z-50">
-          <h1 className="text-2xl font-bold cursor-pointer">Kibuna Portfolio</h1>
+          <h1 className="text-2xl font-bold cursor-pointer"> Simon Kibuna Portfolio</h1>
 {/* Desktop Menu */}
       <ul className="hidden md:flex gap-6 text-lg">
         {["Home", "About", "Projects", "Contact"].map((item) => (
