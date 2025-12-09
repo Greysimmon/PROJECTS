@@ -5,7 +5,7 @@ export default function Home (){
     {/* Left Text Section */}
       <div className="flex-1">
         <h1 className="text-5xl font-bold text-primary leading-tight">
-          Hi, I'm <span className="text-black">[Simon Kibuna]</span>
+          Hi, I'm <span className="text-black">Simon Kibuna</span>
         </h1>
         <p className="mt-4 text-lg text-gray-600 max-w-xl">
           A passionate software developer specializing in the MERN stack, cloud
